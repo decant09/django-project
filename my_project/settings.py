@@ -27,7 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'decant09-django-project-57da8b955ae8.herokuapp.com',
+    'decant09-django-project-57da8b955ae8.herokuapp.com'
 ]
 
 
